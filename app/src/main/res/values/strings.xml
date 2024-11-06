@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HamsterClick</string>
+    <string name="hamster_image">Image of Hamster</string>
+</resources>
